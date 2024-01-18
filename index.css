@@ -241,11 +241,12 @@ span{
 }
 
 .contact{
+   /* border: 1px solid #fff; */
    position: absolute;
    height: 100px;
    width: 750px;
-   margin-top: 400px;
-   margin-left: 250px;
+   margin-top: 47vh;
+   margin-left: 28vh;
 }
 
 .contact .email-id{
